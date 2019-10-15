@@ -66,8 +66,8 @@ class Die
     if(dieNum==3)
     {
       fill(0);
-      ellipse(myX+30,myY+20,10,10);
-      ellipse(myX+20.5,myY+7.5,10,10);
+      ellipse(myX+7.5,myY+7.5,10,10);
+      ellipse(myX+18.5,myY+22,10,10);
       ellipse(myX+32.5,myY+32.5,10,10);
     }
     if(dieNum==4)
